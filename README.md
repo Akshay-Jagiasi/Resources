@@ -1,22 +1,22 @@
-# 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+# Resources
 
-## 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+## Web Development
 
-𝐓𝐡𝐞 𝐰𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐭 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐮𝐝𝐞𝐦𝐲.𝐜𝐨𝐦/𝐜𝐨𝐮𝐫𝐬𝐞/𝐭𝐡𝐞-𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞-𝐰𝐞𝐛-𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭-𝐛𝐨𝐨𝐭𝐜𝐚𝐦𝐩/  𝐁𝐮𝐲 𝐭𝐡𝐢𝐬 𝐜𝐨𝐮𝐫𝐜𝐞 𝐢𝐧 𝐬𝐚𝐥𝐞                                                 
-𝐑𝐞𝐚𝐜𝐭𝐉𝐬|𝐌𝐄𝐑𝐍 : 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭?𝐥𝐢𝐬𝐭=𝐏𝐋𝐮𝟎𝐖_𝟗𝐥𝐈𝐈𝟗𝐚𝐠𝐱𝟔𝟔𝐨𝐙𝐧𝐓𝟔𝐈𝐲𝐡𝐜𝐌𝐈𝐛𝐔𝐌𝐍𝐌𝐝𝐭                                                    
-𝐆𝐢𝐭 𝐇𝐢𝐧𝐝𝐢: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐰𝐚𝐭𝐜𝐡?𝐯=𝐩𝐦𝐦𝐄𝐨𝐎𝟐𝐞𝐡𝟖𝐤&𝐭=𝟏𝟗𝟏𝟖𝐬                                      
-𝐆𝐢𝐭 𝐄𝐧𝐠𝐥𝐢𝐬𝐡: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭?𝐥𝐢𝐬𝐭=𝐏𝐋_𝐞𝐮𝐒𝐍𝐔_𝐞𝐋𝐛𝐞𝐠𝐧𝐭𝟕𝐚𝐑𝟖𝐈𝟏𝐠𝐗𝐟𝐋𝐡𝐊𝐙𝐛𝐱𝐧𝐘𝐗                                    
+The web Developmet Bootcamp: https://www.udemy.com/course/the-complete-web-development-bootcamp/  Buy this cource in sale                                                 
+ReactJs|MERN : https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt                                                    
+Git Hindi: https://www.youtube.com/watch?v=pmmEoO2eh8k&t=1918s                                      
+Git English: https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX                                    
 
-## 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧                               
-𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐇𝐢𝐧𝐝𝐢: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐰𝐚𝐭𝐜𝐡?𝐯=𝟔𝐚𝐅𝟔𝐩𝟐𝐕𝐔𝐎𝐑𝐄                                                            
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐰𝐞𝐛𝟑: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐰𝐚𝐭𝐜𝐡?𝐯=𝐠𝐲𝐌𝐰𝐗𝐮𝐉𝐫𝐛𝐉𝐐&𝐭=𝟗𝐬                                                          
-𝐓𝐡𝐞 𝐁𝐢𝐭𝐜𝐨𝐢𝐧 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝 𝐁𝐨𝐨𝐤 𝐕𝐢𝐝𝐞𝐨 𝐒𝐮𝐦𝐦𝐚𝐫𝐲 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭?𝐥𝐢𝐬𝐭=𝐏𝐋𝐒𝐡𝐏𝐇𝐕𝐌𝐒𝐧𝟑𝐰𝐆𝐓𝐥𝐁𝐅𝐑𝐱𝟐𝐋𝐄𝟐𝐬𝐓𝟗𝐀𝐩𝐂𝐊𝐮𝐮𝐫𝐠                          
-
-
-## 𝐃𝐒𝐀
-𝐃𝐒𝐀 𝐢𝐧 𝐣𝐚𝐯𝐚: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭?𝐥𝐢𝐬𝐭=𝐏𝐋𝟗𝐠𝐧𝐒𝐆𝐇𝐒𝐪𝐜𝐧𝐫_𝐃𝐱𝐇𝐬𝐏𝟕𝐀𝐖𝟗𝐟𝐭𝐪𝟎𝐀𝐭𝐀𝐲𝐘𝐪𝐉                                      
-𝐃𝐒𝐀 𝐢𝐧 𝐂: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭?𝐥𝐢𝐬𝐭=𝐏𝐋𝐮𝟎𝐖_𝟗𝐥𝐈𝐈𝟗𝐚𝐡𝐈𝐚𝐩𝐩𝐑𝐏𝐍𝟎𝐌𝐂𝐀𝐠𝐭𝐎𝐮𝟑𝐥𝐐𝐣𝐐𝐢                                               
+## Blockchain                               
+Blockchain Hindi: https://www.youtube.com/watch?v=6aF6p2VUORE                                                            
+Full Stack web3: https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9s                                                          
+The Bitcoin Standard Book Video Summary Playlist: https://www.youtube.com/playlist?list=PLShPHVMSn3wGTlBFRx2LE2sT9ApCKuurg                          
 
 
-## 𝐂𝐒𝟓𝟎
-𝐌𝐮𝐬𝐭 𝐖𝐚𝐭𝐜𝐡: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐲𝐨𝐮𝐭𝐮𝐛𝐞.𝐜𝐨𝐦/𝐰𝐚𝐭𝐜𝐡?𝐯=𝟖𝐦𝐀𝐈𝐓𝐜𝐍𝐭𝟕𝟏𝟎
+## DSA
+DSA in java: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ                                      
+DSA in C: https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi                                               
+
+
+## CS50
+Must Watch: https://www.youtube.com/watch?v=8mAITcNt710                                                      

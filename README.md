@@ -10,7 +10,8 @@
 # Blockchain                               
 #### Blockchain Hindi: https://www.youtube.com/watch?v=6aF6p2VUORE                                                            
 #### Full Stack web3: https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9s                                                          
-#### The Bitcoin Standard Book Video Summary Playlist: https://www.youtube.com/playlist?list=PLShPHVMSn3wGTlBFRx2LE2sT9ApCKuurg                          
+#### The Bitcoin Standard Book Video Summary Playlist: https://www.youtube.com/playlist?list=PLShPHVMSn3wGTlBFRx2LE2sT9ApCKuurg  
+#### Core Concepts of blockchain specially bitcoin: https://www.udemy.com/course/build-your-blockchain-az/ Buy this cource in sale
 
 
 # DSA

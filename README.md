@@ -4,7 +4,8 @@
 #### The web Developmet Bootcamp: https://www.udemy.com/course/the-complete-web-development-bootcamp/  Buy this cource in sale                                           
 #### ReactJs|MERN : https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt                                                    
 #### Git Hindi: https://www.youtube.com/watch?v=pmmEoO2eh8k&t=1918s                                      
-#### Git English: https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX                                    
+#### Git English: https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX   
+#### Git & Github specially for contributing: https://www.youtube.com/watch?v=apGV9Kg7ics
 _________________________________________________________________________________________________________________________________
 # Blockchain                               
 

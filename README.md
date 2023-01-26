@@ -21,4 +21,13 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 # CS50
 
-#### Must Watch: https://www.youtube.com/watch?v=8mAITcNt710                                                      
+#### Must Watch: https://www.youtube.com/watch?v=8mAITcNt710         
+
+_________________________________________________________________________________________________________________________________
+# GSOC(Google Summer of Code) guidance videos 
+
+#### https://www.youtube.com/watch?v=bIdmWr2vY2c&list=PPSV
+#### https://www.youtube.com/watch?v=qudrqu7GFmY&list=PPSV
+#### https://www.youtube.com/watch?v=nBQRqDqsmdo&list=PPSV
+#### https://www.youtube.com/watch?v=BhaMF1lMgQI&list=PPSV
+

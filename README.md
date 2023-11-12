@@ -17,7 +17,8 @@ ________________________________________________________________________________
 # DSA
 
 #### DSA in java: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ                                      
-#### DSA in C: https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi                                               
+#### DSA in C: https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi 
+#### DSA Overview: https://www.youtube.com/watch?v=oz9cEqFynHU
 _________________________________________________________________________________________________________________________________
 # CS50
 

@@ -56,3 +56,22 @@ ________________________________________________________________________________
 # ---------
 #### https://www.youtube.com/watch?v=H565avw-ufk
 #### https://www.youtube.com/watch?v=HK54nbXq_k0
+
+__________________________________________________________________________________________________________________________________
+# websites mostly AI tools
+#### https://medulance.com/   24/7 Emergency Ambulance Care with Medulance
+#### https://www.perplexity.ai/ perplexity ai realtime
+#### https://claude.ai/  claude model inputs => text dcouments, image etc
+#### https://wrtn.ai/   includes these models at one place thumbnail
+#### https://wrtn.ai/   includes these models at one place thumbnail
+#### AI Search, GPT-4, GPT-3.5, Claude 2.1, Claude Instant, PaLM2
+#### https://forefront.ai/ customized assistant, inputs=>documents, images etc
+#### https://www.hyperwriteai.com/ Write, Research, and Collaborate with your AI Personal Assistant
+#### https://medisearch.io/ Direct science-based answers to medical questions
+#### https://invideo.io/ Create videos with text prompts
+#### https://www.naturalreaders.com/  text to speech  pdf, webpages
+#### https://www.whatplugin.ai/Find Useful Custom GPTs,plugins, characters AI Bots,  For ChatGPT, chatbots for poe
+#### https://learn.deeplearning.ai/ deep learning short courses
+#### https://chat.openai.com/
+#### https://gemini.google.com/ realtime
+

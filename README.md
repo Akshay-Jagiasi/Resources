@@ -80,5 +80,5 @@ ________________________________________________________________________________
 # 100+ concepts explained
 #### https://www.youtube.com/watch?v=-uleG_Vecis 100+ Computer Science Concepts Explained
 #### https://www.youtube.com/watch?v=erEgovG9WBs 100+ Web Development Things you Should Know
+#### https://www.youtube.com/watch?v=lkIFF4maKMU 100+ JavaScript Concepts you Need to Know
 
-####

@@ -75,3 +75,10 @@ ________________________________________________________________________________
 #### https://chat.openai.com/
 #### https://gemini.google.com/ realtime
 
+
+__________________________________________________________________________________________________________________________________
+# 100+ concepts explained
+#### https://www.youtube.com/watch?v=-uleG_Vecis&t=379s 100+ Computer Science Concepts Explained
+#### https://www.youtube.com/watch?v=erEgovG9WBs 100+ Web Development Things you Should Know
+
+####

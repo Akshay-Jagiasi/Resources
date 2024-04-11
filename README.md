@@ -47,48 +47,8 @@ ________________________________________________________________________________
 #### https://www.youtube.com/watch?v=6kE8lrqfwHo&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=15
 ### Backend Playlist
 #### https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
-##### Topics covered 
-1. **Node.js Introduction**
-2. **Node.js Installation**
-3. **Hello World Node.js**
-4. **Modules in Node.js**
-5. **File Handling in Node.js**
-6. **How Node.js Works?**
-7. **Building HTTP Server in Node.js**
-8. **Handling URLs in Node.js**
-9. **HTTP Methods**
-10. **Getting Started with Express and Node.js**
-11. **How Versioning Works in Node.js?**
-12. **What is REST API?**
-13. **Building REST APIs using Node.js and Express.js**
-14. **Introduction to POSTMAN for REST APIs**
-15. **Express Middleware**
-16. **HTTP Headers in APIs**
-17. **HTTP Status Codes**
-18. **Getting Started with MongoDB**
-19. **Connecting Node.js with MongoDB (Mongoose + Express)**
-20. **Model View Controller (MVC) in Node.js**
-21. **Create a Custom URL Shortener using Node.js and MongoDB**
-22. **Server-Side Rendering with EJS and Node.js**
-23. **Building Node.js Authentication from Scratch**
-24. **JWT Authentication in Node.js**
-25. **Cookies in Node.js**
-26. **Authorization in Node.js**
-27. **Creating Discord Bot in Node.js**
-28. **Uploading Files with Node.js and Multer**
-29. **Setting Up Project: Node.js Blogging Application with MongoDB**
-30. **Setting up Authentication: Node.js Blogging Application with MongoDB**
-31. **Complete Blog App: Node.js, MongoDB, and EJS**
-32. **Deploy Node.js Application on AWS (Amazon Web Services)**
-33. **WebSocket in Node.js (Socket.IO - Real-Time Messaging)**
-34. **Node.js Streams**
-35. **Scaling Node.js Applications using the Cluster Module**
-36. **What is Nginx?**
-37. **Install and Setup Nginx**
-38. **Serve Static Content with Nginx**
-39. **Full Node.js Deployment - NGINX, SSL With Let's Encrypt**
-
-These topics cover a broad range of concepts and practical applications in Node.js and web development.
+#### Topics covered 
+**Node.js Introduction** | **Node.js Installation** | **Hello World Node.js** | **Modules in Node.js** | **File Handling in Node.js** | **How Node.js Works?** | **Building HTTP Server in Node.js** | **Handling URLs in Node.js** | **HTTP Methods** | **Getting Started with Express and Node.js** | **How Versioning Works in Node.js?** | **What is REST API?** | **Building REST APIs using Node.js and Express.js** | **Introduction to POSTMAN for REST APIs** | **Express Middleware** | **HTTP Headers in APIs** | **HTTP Status Codes** | **Getting Started with MongoDB** | **Connecting Node.js with MongoDB (Mongoose + Express)** | **Model View Controller (MVC) in Node.js** | **Create a Custom URL Shortener using Node.js and MongoDB** | **Server-Side Rendering with EJS and Node.js** | **Building Node.js Authentication from Scratch** | **JWT Authentication in Node.js** | **Cookies in Node.js** | **Authorization in Node.js** | **Creating Discord Bot in Node.js** | **Uploading Files with Node.js and Multer** | **Setting Up Project: Node.js Blogging Application with MongoDB** | **Setting up Authentication: Node.js Blogging Application with MongoDB** | **Complete Blog App: Node.js, MongoDB, and EJS** | **Deploy Node.js Application on AWS (Amazon Web Services)** | **WebSocket in Node.js (Socket.IO - Real-Time Messaging)** | **Node.js Streams** | **Scaling Node.js Applications using the Cluster Module** | **What is Nginx?** | **Install and Setup Nginx** | **Serve Static Content with Nginx** | **Full Node.js Deployment - NGINX, SSL With Let's Encrypt**.
 
 #### https://www.youtube.com/watch?v=vtYdBaXjysU&list=PLbtI3_MArDOk7J-8hR6CeB5U6bvgRKNNr&pp=iAQB 
 ### ReactJs

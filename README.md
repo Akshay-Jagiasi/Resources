@@ -59,9 +59,8 @@ ________________________________________________________________________________
 #### https://www.youtube.com/watch?v=XBu54nfzxAQ
 
 ___________________________________________________________________________________________________________________________________
-# ---------
-#### https://www.youtube.com/watch?v=H565avw-ufk
-#### https://www.youtube.com/watch?v=HK54nbXq_k0
+#### https://www.youtube.com/watch?v=H565avw-ufk The Computer Science Iceberg Explained (Part 1)
+#### https://www.youtube.com/watch?v=HK54nbXq_k0 The Operating System Iceberg Explained
 
 __________________________________________________________________________________________________________________________________
 # websites mostly AI tools

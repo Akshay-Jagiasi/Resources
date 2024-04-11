@@ -46,6 +46,50 @@ ________________________________________________________________________________
 #### https://www.youtube.com/watch?v=ks4MFTHLfyg&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=11
 #### https://www.youtube.com/watch?v=6kE8lrqfwHo&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=15
 ### Backend Playlist
+#### https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
+##### Topics covered 
+1. **Node.js Introduction**
+2. **Node.js Installation**
+3. **Hello World Node.js**
+4. **Modules in Node.js**
+5. **File Handling in Node.js**
+6. **How Node.js Works?**
+7. **Building HTTP Server in Node.js**
+8. **Handling URLs in Node.js**
+9. **HTTP Methods**
+10. **Getting Started with Express and Node.js**
+11. **How Versioning Works in Node.js?**
+12. **What is REST API?**
+13. **Building REST APIs using Node.js and Express.js**
+14. **Introduction to POSTMAN for REST APIs**
+15. **Express Middleware**
+16. **HTTP Headers in APIs**
+17. **HTTP Status Codes**
+18. **Getting Started with MongoDB**
+19. **Connecting Node.js with MongoDB (Mongoose + Express)**
+20. **Model View Controller (MVC) in Node.js**
+21. **Create a Custom URL Shortener using Node.js and MongoDB**
+22. **Server-Side Rendering with EJS and Node.js**
+23. **Building Node.js Authentication from Scratch**
+24. **JWT Authentication in Node.js**
+25. **Cookies in Node.js**
+26. **Authorization in Node.js**
+27. **Creating Discord Bot in Node.js**
+28. **Uploading Files with Node.js and Multer**
+29. **Setting Up Project: Node.js Blogging Application with MongoDB**
+30. **Setting up Authentication: Node.js Blogging Application with MongoDB**
+31. **Complete Blog App: Node.js, MongoDB, and EJS**
+32. **Deploy Node.js Application on AWS (Amazon Web Services)**
+33. **WebSocket in Node.js (Socket.IO - Real-Time Messaging)**
+34. **Node.js Streams**
+35. **Scaling Node.js Applications using the Cluster Module**
+36. **What is Nginx?**
+37. **Install and Setup Nginx**
+38. **Serve Static Content with Nginx**
+39. **Full Node.js Deployment - NGINX, SSL With Let's Encrypt**
+
+These topics cover a broad range of concepts and practical applications in Node.js and web development.
+
 #### https://www.youtube.com/watch?v=vtYdBaXjysU&list=PLbtI3_MArDOk7J-8hR6CeB5U6bvgRKNNr&pp=iAQB 
 ### ReactJs
 #### https://www.youtube.com/watch?v=2LsOyOaobrc&list=PLbtI3_MArDOn2wYYazc6Q2mzEo-28r1d0&pp=iAQB

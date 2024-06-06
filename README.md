@@ -62,6 +62,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
 # -----
+#### https://www.youtube.com/watch?v=CxGSnA-RTsA&list=PPSV COMPUTER SCIENCE explained in 17 Minutes [Must Watch]
 #### https://www.youtube.com/watch?v=H565avw-ufk The Computer Science Iceberg Explained (Part 1)
 #### https://www.youtube.com/watch?v=HK54nbXq_k0 The Operating System Iceberg Explained
 

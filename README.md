@@ -19,9 +19,9 @@ ________________________________________________________________________________
 #### DSA in java: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ                                      
 #### DSA Overview: https://www.youtube.com/watch?v=oz9cEqFynHU
 #### DSA Revision 
-##### -> https://www.youtube.com/watch?v=xWLxhF3b5P8
-##### -> OOPS part 1 https://www.youtube.com/watch?v=rKlGgHun2w8&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=2
-##### -> OOPS part 2 https://www.youtube.com/watch?v=svQiCgQpuwU&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=3
+##### -----------> https://www.youtube.com/watch?v=xWLxhF3b5P8
+##### -----------> OOPS part 1 https://www.youtube.com/watch?v=rKlGgHun2w8&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=2
+##### -----------> OOPS part 2 https://www.youtube.com/watch?v=svQiCgQpuwU&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=3
 _________________________________________________________________________________________________________________________________
 # CS50
 

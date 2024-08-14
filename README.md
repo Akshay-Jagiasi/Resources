@@ -6,7 +6,9 @@
 #### Git Hindi: https://www.youtube.com/watch?v=pmmEoO2eh8k&t=1918s                                      
 #### Git English: https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX   
 #### Git & Github specially for contributing to OpenSource: https://www.youtube.com/watch?v=apGV9Kg7ics
-### Best Channel for the Full stack Development and the one shot videos *** IMP*** https://www.youtube.com/@shivanshvasu
+## *** IMP***
+### Best Channel for the Full stack Development and the one shot videos https://www.youtube.com/@shivanshvasu
+## *** IMP***
 _________________________________________________________________________________________________________________________________
 # Blockchain                               
 

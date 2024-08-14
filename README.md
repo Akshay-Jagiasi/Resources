@@ -6,6 +6,7 @@
 #### Git Hindi: https://www.youtube.com/watch?v=pmmEoO2eh8k&t=1918s                                      
 #### Git English: https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX   
 #### Git & Github specially for contributing to OpenSource: https://www.youtube.com/watch?v=apGV9Kg7ics
+#### Best Channel for the Full stack Development and the one shot videos *** IMP*** https://www.youtube.com/@shivanshvasu
 _________________________________________________________________________________________________________________________________
 # Blockchain                               
 
@@ -57,8 +58,10 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 ### ReactJs Quick videos 
 #### https://www.youtube.com/watch?v=2LsOyOaobrc&list=PLbtI3_MArDOn2wYYazc6Q2mzEo-28r1d0&pp=iAQB
+#### https://www.youtube.com/watch?v=7DCImfQe3hk&list=PLp18NAIKHWnvpLpioGs6ZAiMlpfx49KOz&pp=iAQB if(less time to revise refer this video)
 ### Redux in one video 
 #### https://www.youtube.com/watch?v=1oU_YGhT7ck
+#### https://www.youtube.com/watch?v=CEHciMNpaC4&list=PLp18NAIKHWnuq1ODXRD-3ivVJ3R89A5UL&pp=iAQB
 ___________________________________________________________________________________________________________________________________
 
 # Backend Overview

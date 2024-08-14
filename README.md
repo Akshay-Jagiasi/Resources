@@ -8,6 +8,7 @@
 #### Git & Github specially for contributing to OpenSource: https://www.youtube.com/watch?v=apGV9Kg7ics
 ## *** IMP ***
 ### Best Channel for the Full stack Development and the one shot videos https://www.youtube.com/@shivanshvasu
+#### Mern Stack OneShot with DemoProject https://www.youtube.com/watch?v=hmwFN5YzY1s
 _________________________________________________________________________________________________________________________________
 # Blockchain                               
 

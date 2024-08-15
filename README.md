@@ -62,10 +62,10 @@ ________________________________________________________________________________
 #### https://www.youtube.com/watch?v=2LsOyOaobrc&list=PLbtI3_MArDOn2wYYazc6Q2mzEo-28r1d0&pp=iAQB
 #### https://www.youtube.com/watch?v=7DCImfQe3hk&list=PLp18NAIKHWnvpLpioGs6ZAiMlpfx49KOz&pp=iAQB if(less time to revise refer this video)
 ### Redux in one video 
-###### State: The state represents the data or the application status at a given point in time. For example, the user’s profile information or the items in a ######shopping cart.
+###### State: The state represents the data or the application status at a given point in time. For example, the user’s profile information or the items in a shopping cart.
 ###### Store: The store holds the entire state of your application. You can think of it as a big container that keeps all your application's data.
-###### Actions: Actions are plain JavaScript objects that describe something that happened. For instance, an action could be { type: 'ADD_ITEM', payload: { id: 1, ###### name: 'Apple' } }.
-###### Reducers: Reducers are functions that specify how the state changes in response to an action. They take the current state and an action, then return a new ###### state.
+###### Actions: Actions are plain JavaScript objects that describe something that happened. For instance, an action could be { type: 'ADD_ITEM', payload: { id: 1,  name: 'Apple' } }.
+###### Reducers: Reducers are functions that specify how the state changes in response to an action. They take the current state and an action, then return a new  state.
 ###### Dispatch: Dispatch is the method used to send actions to the store. When an action is dispatched, it triggers the reducers to update the state.
 ###### Selectors: Selectors are functions that extract specific pieces of data from the state
 #### https://www.youtube.com/watch?v=1oU_YGhT7ck

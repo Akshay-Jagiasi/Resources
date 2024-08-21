@@ -25,6 +25,7 @@ ________________________________________________________________________________
 ##### --------------> https://www.youtube.com/watch?v=xWLxhF3b5P8
 ##### --------------> OOPS part 1 https://www.youtube.com/watch?v=rKlGgHun2w8&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=2
 ##### --------------> OOPS part 2 https://www.youtube.com/watch?v=svQiCgQpuwU&list=PL0zysOflRCekkNEe4FDmdUN3FATodg3Yf&index=3
+##### --------------> All OOPS Concepts in one video Shortest Video https://www.youtube.com/watch?v=bj1EsgZK0RI
 _________________________________________________________________________________________________________________________________
 # CS50
 

@@ -80,6 +80,10 @@ ________________________________________________________________________________
 https://github.com/Akshay-Jagiasi/ComputerNetworks
 
 ___________________________________________________________________________________________________________________________________
+# Operating System
+https://www.youtube.com/watch?v=8XBtAjKwCm4
+
+___________________________________________________________________________________________________________________________________
 # -----
 #### https://www.youtube.com/watch?v=CxGSnA-RTsA&list=PPSV COMPUTER SCIENCE explained in 17 Minutes [Must Watch]
 #### https://www.youtube.com/watch?v=H565avw-ufk The Computer Science Iceberg Explained (Part 1)

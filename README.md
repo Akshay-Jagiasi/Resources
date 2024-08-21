@@ -82,6 +82,7 @@ https://github.com/Akshay-Jagiasi/ComputerNetworks
 ___________________________________________________________________________________________________________________________________
 # Operating System
 https://www.youtube.com/watch?v=8XBtAjKwCm4
+#### Above video summary here --> https://dpaste.com/GNXQGTSBQ
 
 ___________________________________________________________________________________________________________________________________
 # -----

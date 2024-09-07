@@ -9,6 +9,7 @@
 ## *** IMP ***
 ### Best Channel for the Full stack Development and the one shot videos https://www.youtube.com/@shivanshvasu
 #### Mern Stack OneShot with DemoProject https://www.youtube.com/watch?v=hmwFN5YzY1s
+#### Checkout this channel for Full stack development https://www.youtube.com/@DipeshMalvia/playlists
 _________________________________________________________________________________________________________________________________
 # Blockchain                               
 
@@ -47,6 +48,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
 # JavaScript Quick videos
+#### https://www.youtube.com/watch?v=B8_cPhCM7HY Async Programming | Callbacks | Promises | Async Await
 #### https://www.youtube.com/watch?v=htznIeWKgg8&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=3
 #### https://www.youtube.com/watch?v=BeVkob6Hl6w&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=4
 #### https://www.youtube.com/watch?v=EgDmCbhmstU&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=6
@@ -58,6 +60,7 @@ ________________________________________________________________________________
 #### https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo Topics covered in this playlist 👇 ---Must Watch---
 #### **Node.js Introduction** | **Node.js Installation** | **Hello World Node.js** | **Modules in Node.js** | **File Handling in Node.js** | **How Node.js Works?** | **Building HTTP Server in Node.js** | **Handling URLs in Node.js** | **HTTP Methods** | **Getting Started with Express and Node.js** | **How Versioning   Works in Node.js?** | **What is REST API?** | **Building REST APIs using Node.js and Express.js** | **Introduction to POSTMAN for REST APIs** | **Express     Middleware** | **HTTP Headers in APIs** | **HTTP Status Codes** | **Getting Started with MongoDB** | **Connecting Node.js with MongoDB (Mongoose + Express)** | **Model View Controller (MVC) in Node.js** | **Create a Custom URL Shortener using Node.js and MongoDB** | **Server-Side Rendering with EJS and Node.js** | **Building Node.js Authentication from Scratch** | **JWT Authentication in Node.js** | **Cookies in Node.js** | **Authorization in Node.js** | **Creating Discord Bot in Node.js** | **Uploading Files with Node.js and Multer** | **Setting Up Project: Node.js Blogging Application with MongoDB** | **Setting up Authentication: Node.js Blogging Application with MongoDB** | **Complete Blog App: Node.js, MongoDB, and EJS** | **Deploy Node.js Application on AWS (Amazon Web Services)** | **WebSocket in Node.js (Socket.IO - Real-Time Messaging)** | **Node.js Streams** | **Scaling Node.js Applications using the Cluster Module** | **What is Nginx?** | **Install and Setup Nginx** | **Serve Static Content with Nginx** | **Full Node.js Deployment - NGINX, SSL With Let's Encrypt**.
 #### https://www.youtube.com/watch?v=vtYdBaXjysU&list=PLbtI3_MArDOk7J-8hR6CeB5U6bvgRKNNr&pp=iAQB 
+
 ___________________________________________________________________________________________________________________________________
 ### ReactJs Quick videos 
 #### https://www.youtube.com/watch?v=2LsOyOaobrc&list=PLbtI3_MArDOn2wYYazc6Q2mzEo-28r1d0&pp=iAQB
